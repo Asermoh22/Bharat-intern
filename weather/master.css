@@ -1,0 +1,144 @@
+body{
+    /* background: linear-gradient(to right, #4ca1af 0%, #c4e0ef 100%); */
+    background: linear-gradient(to right, #F1F2B5 0%, #135058 100%);
+
+}
+.header_search{
+    background-color: black;
+    position: relative;
+    box-shadow: 7px black;
+    width: 387px;
+    height: 50px;
+    box-shadow: 9px 5px 14px 093028;
+    border-radius: 35px;
+    margin: 40px auto 0;
+}
+.logo{
+    position: relative;
+    color: white;
+    top: 75px;
+    left: 90PX;
+    font-size: x-large;
+    font-family: "Tiny5", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+input{
+    background-color: black;
+    border: none;
+    position: relative;
+    top: -3px;
+    left: 37px;
+    color: white;
+    width: 150px;
+}
+input:focus {
+    outline: none;
+}
+#icon{
+    width: 10px;
+
+}
+#sea{
+    color: white;
+    position: relative;
+    left: 325px;
+    top: 16px;
+  
+}
+#sea:hover{
+    cursor: pointer;
+}
+.wea_ima{
+
+    /* left: 300px; */
+    width: 194px;
+    position: relative;
+    left: 650px;
+    top: 60px;
+
+}
+.temper{
+    color: #ffffff;
+    position: relative;
+    left: 720px;
+    top: 40px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.city{
+    color: #ffe269;
+    position: relative;
+    left: 717px;
+    top: 20px;
+
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+
+/* .main_Weather{
+    background-color: black;
+    width: 50%;
+    position: absolute;
+    left: 370px;
+    bottom: 170px;
+    height: 350px;
+    border-radius: 40px;
+} */
+
+.hum {
+    /* background-color: black; */
+    /* box-shadow: 9px 5px 14px rgb(1, 11, 27); */
+    width: 232px;
+    height: 118px;
+    position: relative;
+    left: 650px;
+    border-radius: 9px;
+    bottom: 0px;
+}
+.humimg{
+    position: relative;
+    left: 15px;
+    top: 25px;
+
+}
+#hus{
+    font-weight: bold;
+    color: white;
+    position: relative;
+    left: 121px;
+    top: -7px;
+  
+}
+.humperc{
+    color: white;
+    position: relative;
+    left: 115px;
+    font-size: 41px;
+    bottom: 102px;
+    font-style: normal;
+}
+
+.wind_speed{
+       /* background-color: black; */
+    /* box-shadow: 1px 3px 4px rgb(255 255 255); */
+    width: 232px;
+    height: 130px;
+    position: relative;
+    left: 650px;
+    border-radius: 9px;
+    bottom: 29px;
+}
+.Winsp{
+    color: rgb(255, 255, 255);
+    position: relative;
+    left: 100px;
+    font-size: 27px;
+    bottom: 83px;
+    font-style: normal;
+}
