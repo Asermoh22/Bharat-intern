@@ -1,7 +1,8 @@
 body{
     /* background: linear-gradient(to right, #4ca1af 0%, #c4e0ef 100%); */
-    background: linear-gradient(to right, #F1F2B5 0%, #135058 100%);
-
+/*     background: linear-gradient(to right, #F1F2B5 0%, #135058 100%);
+ */
+     background: linear-gradient(to right, #649173 0%, #a2a184 100%);
 }
 .header_search{
     background-color: black;
